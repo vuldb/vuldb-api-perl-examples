@@ -16,7 +16,7 @@ use LWP::UserAgent;
 use HTTP::Request;
  
 # API URL
-my $url = "https://vuldb.com/?api";
+my $url = "https://vuldb.com/api";
 
 # Headers for authentication
 my $personal_api_key = ""; # Enter your personal API key here
